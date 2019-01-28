@@ -1,6 +1,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//As the script is at 13.04 of the video.
+//I put this on an empty game object.
+
 public class ObjectPooler : MonoBehaviour {
     [System.Serializable]
     public class Pool
